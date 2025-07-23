@@ -13,7 +13,7 @@
 ---
 
 
-Tools used: **Adobe Photoshop** (Pen Tool, Clone Stamp, Healing Brush,...)
+Tools used: **Adobe Photoshop** (Pen Tool, Clone Stamp, Healing Brush, Content Aware Fill, Brushes...)
 
 ---
 

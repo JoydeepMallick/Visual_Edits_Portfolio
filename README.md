@@ -7,7 +7,7 @@ Each folder contains a specific project with **before-and-after images**, so you
 ## 🛠 Tools Used
 - Adobe Photoshop 2019 and 2022 ( [Download here](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit?tab=t.0) )
 - (Planned for future) GIMP
-
+- PIXIMPERFECT tutorials on tools have been livesaver.
 
 
 ## 📂 Folder Structure
