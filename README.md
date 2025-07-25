@@ -15,9 +15,35 @@ Each folder contains:
 - `before.png` — Original image
 - `after.png` — Final result
 - `README.md` — Side-by-side comparison and context
+- the photoshop file used in `psd` format
 
 ---
 
 Thanks for checking out my work! 
 
 If you'd like to collaborate or have feedback, feel free to [contact me](https://x.com/_JoydeepMallick).
+
+...
+
+## 📂 Folder Structure
+Each folder contains:
+- `before.png` — Original image
+- `after.png` — Final result
+- `README.md` — Side-by-side comparison and context
+
+---
+
+### ⚠️ Disclaimer
+
+> **All the `before` images used in this repository are the property of their respective publishers, authors, and copyright holders.**  
+>  
+> This work is purely **non-commercial** and intended **only as a portfolio to demonstrate image editing skills** (such as cleaning, redrawing, and retouching) using tools like Adobe Photoshop.  
+>  
+> No infringement is intended. If you are a copyright holder and would like any content removed, please [contact me](https://x.com/_JoydeepMallick), and I will take immediate action.
+
+---
+
+Thanks for checking out my work! 
+
+If you'd like to collaborate or have feedback, feel free to [contact me](https://x.com/_JoydeepMallick).
+
