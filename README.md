@@ -11,7 +11,7 @@ Each folder contains a specific project with **before-and-after images**, so you
 
 - (Planned for unforseen future) GIMP
 
-- Screentones for reference ([Download Here](https://drive.google.com/drive/folders/1xDul1jBRfaNW3jjgKsm3JW3-2-9s1QDu)or [from here](https://mangadex.org/title/ba2c3f7e-dc0b-4c8c-b251-9a207364ea11/screentone-collection))
+- Screentones for reference ([Download Here](https://drive.google.com/drive/folders/1xDul1jBRfaNW3jjgKsm3JW3-2-9s1QDu) or [from here](https://mangadex.org/title/ba2c3f7e-dc0b-4c8c-b251-9a207364ea11/screentone-collection))
 
 ## Resources to Learn
 
