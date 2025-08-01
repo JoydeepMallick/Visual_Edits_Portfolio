@@ -23,7 +23,11 @@ Each folder contains a specific project with **before-and-after images**, so you
 - [FatManTube](https://www.youtube.com/@FatManTube) tutorials dedicated to cleaning and redrawing.
 - [GiSama](https://www.youtube.com/@gisama315) specially for manga redrawing
 - [Astranim's video](https://www.youtube.com/watch?v=x0J2ZltOE38&t=17s) on coloring.
-- [Speedlines](https://www.youtube.com/watch?v=s4WaVPofMJw) tutorial from Photoshop training channel
+- [Speedlines OLD ](https://www.youtube.com/watch?v=s4WaVPofMJw) tutorial from Photoshop training channel (link to download not working and not working on PS 2019 and later) 
+- [Speedlines brushes](https://psfiles.com/manga-speedlines-brushes/) for PS(not sure if safe)
+
+### ⚡⚡
+Still on lookout for speedline resources
 
 ## 📂 Folder Structure
 Each folder contains:
