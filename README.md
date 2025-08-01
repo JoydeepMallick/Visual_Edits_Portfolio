@@ -6,8 +6,23 @@ Each folder contains a specific project with **before-and-after images**, so you
 
 ## 🛠 Tools Used
 - Adobe Photoshop 2019 and 2022 ( [Download here](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit?tab=t.0) )
-- (Planned for future) GIMP
-- PIXIMPERFECT tutorials on tools have been livesaver.
+
+- Clip Studio Paint 3.0.0 ([Download Here](https://drive.google.com/drive/folders/1_HbsAYQNwWICdPN7ksORUD_sYU9vzmaE) and [Get More Brushes](https://drive.google.com/drive/u/0/folders/1y2YTBmYfEOYV2CTgBjpNizrIlMzi6H2W))
+
+- (Planned for unforseen future) GIMP
+
+- Screentones for reference ([Download Here](https://drive.google.com/drive/folders/1xDul1jBRfaNW3jjgKsm3JW3-2-9s1QDu))
+
+## Resources to Learn
+
+
+- [PIXIMPERFECT](https://www.youtube.com/@PiXimperfect) tutorials 
+- [This Guy Does Photoshop](https://www.youtube.com/@thisguydoesphotoshop) tutorials
+- [TutVid](https://www.youtube.com/@tutvid) tutorials
+- [MikiiChi's Guide](https://drive.google.com/drive/folders/1a04Za8iIBb9sBj2M1-msj7VVSBdAtzsO?usp=drive_link) (The google slides are really good and give a starting direction and some rules to keep in mind) and her [YouTube tutorials on cleaning](https://www.youtube.com/watch?v=fkFx5yt482Q)
+- [FatManTube](https://www.youtube.com/@FatManTube) tutorials dedicated to cleaning and redrawing.
+- [GiSama](https://www.youtube.com/@gisama315) specially for manga redrawing
+- [Astranim's video](https://www.youtube.com/watch?v=x0J2ZltOE38&t=17s) on coloring.
 
 
 ## 📂 Folder Structure
