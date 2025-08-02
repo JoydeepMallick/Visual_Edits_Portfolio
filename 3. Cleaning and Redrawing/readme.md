@@ -12,6 +12,12 @@
 
 ---
 
+### Noteworthy work 
+
+Removing complex SFX and doing redraw. 
+
+⚠ More improvement on speedlines needed.
+
 
 Tools used: **Adobe Photoshop** (Pen Tool, Clone Stamp, Healing Brush, Content Aware Fill, Brushes...)
 

@@ -16,6 +16,12 @@
 
 Tools used: **Adobe Photoshop** (Pen Tool, Clone Stamp, Healing Brush, Content Aware Fill, Brushes...)
 
+### Noteworthy work
+
+Redrawing building from scratch mostly from imagination, some copy paste, some stamp all using mouse.
+
+⚠ More work needed on this. Need to improve more.
+
 ---
 
 > *Feel free to zoom in for better details.*

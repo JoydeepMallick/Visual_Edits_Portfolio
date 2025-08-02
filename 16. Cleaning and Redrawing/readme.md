@@ -16,6 +16,11 @@
 
 Tools used: **Adobe Photoshop** (Pen Tool, Clone Stamp, Healing Brush, Content Aware Fill, Brushes...)
 
+
+### Noteworthy work
+
+Removing SFX and redrawing
+
 ---
 
 > *Feel free to zoom in for better details.*

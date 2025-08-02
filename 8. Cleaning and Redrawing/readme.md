@@ -16,6 +16,10 @@
 
 Tools used: **Adobe Photoshop** (Pen Tool, Clone Stamp, Healing Brush, Content Aware Fill, Brushes...)
 
+### Noteworthy work
+
+Redrawing chairs hidden below SFX
+
 ---
 
 > *Feel free to zoom in for better details.*
