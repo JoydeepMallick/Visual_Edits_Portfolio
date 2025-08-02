@@ -52,9 +52,6 @@ Each folder contains:
 
 ---
 
-### Most Noteworthy redraws
-
-My works [4](./4.%20Cleaning%20and%20Redrawing/), [43](./43.Cleaning%20and%20Redrawing/), [44](./44.%20Cleaning%20and%20Redrawing/),  [45](./45.%20Cleaning%20and%20Redrawing/)
 
 ### ⚠️ Disclaimer
 
