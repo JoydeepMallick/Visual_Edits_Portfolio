@@ -16,6 +16,10 @@
 
 Tools used: **Adobe Photoshop** (Pen Tool, Clone Stamp, Healing Brush, Content Aware Fill, Brushes...)
 
+### Most Challenging section
+
+Airport section needed too much redraw and refinement.
+
 ---
 
 > *Feel free to zoom in for better details.*
