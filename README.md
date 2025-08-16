@@ -5,9 +5,10 @@ This repository is a showcase of my image editing work, focusing on **scanlation
 Each folder contains a specific project with **before-and-after images**, so you can clearly see the transformation and the techniques used.
 
 ## 🛠 Tools Used
+
 - Adobe Photoshop 2019 and 2022 ( [Download here](https://docs.google.com/document/d/17PheyyF9dm7YYjaTZ9JAAY3hhdeIQ7sJ4sylTG9_6xI/edit?tab=t.0) )
 
-- Clip Studio Paint 3.0.0 ([Download Here](https://drive.google.com/drive/folders/1_HbsAYQNwWICdPN7ksORUD_sYU9vzmaE) and [Get More Brushes](https://drive.google.com/drive/u/0/folders/1y2YTBmYfEOYV2CTgBjpNizrIlMzi6H2W))
+- Clip Studio Paint 3.0.0 ([Download Here](https://drive.google.com/drive/folders/1_HbsAYQNwWICdPN7ksORUD_sYU9vzmaE) and [Get More Brushes](https://drive.google.com/drive/u/0/folders/1y2YTBmYfEOYV2CTgBjpNizrIlMzi6H2W)) , Speedlines[1](https://assets.clip-studio.com/en-us/detail?id=1739738), [2](https://assets.clip-studio.com/en-us/detail?id=1496777), [3](https://assets.clip-studio.com/ja-jp/detail?id=1721568), [4](https://assets.clip-studio.com/ja-jp/detail?id=2005591)
 
 - (Planned for unforseen future) GIMP
 
@@ -15,22 +16,24 @@ Each folder contains a specific project with **before-and-after images**, so you
 
 ## Resources to Learn
 
-
-- [PIXIMPERFECT](https://www.youtube.com/@PiXimperfect) tutorials 
+- [PIXIMPERFECT](https://www.youtube.com/@PiXimperfect) tutorials
 - [This Guy Does Photoshop](https://www.youtube.com/@thisguydoesphotoshop) tutorials
 - [TutVid](https://www.youtube.com/@tutvid) tutorials
 - [MikiiChi's Guide](https://drive.google.com/drive/folders/1a04Za8iIBb9sBj2M1-msj7VVSBdAtzsO?usp=drive_link) (The google slides are really good and give a starting direction and some rules to keep in mind) and her [YouTube tutorials on cleaning](https://www.youtube.com/watch?v=fkFx5yt482Q)
 - [FatManTube](https://www.youtube.com/@FatManTube) tutorials dedicated to cleaning and redrawing.
 - [GiSama](https://www.youtube.com/@gisama315) specially for manga redrawing
 - [Astranim's video](https://www.youtube.com/watch?v=x0J2ZltOE38&t=17s) on coloring.
-- ⚠ [Speedlines OLD ](https://www.youtube.com/watch?v=s4WaVPofMJw) tutorial from Photoshop training channel ( ⚠ link to download no longer works, not much useful) 
+- ⚠ [Speedlines OLD ](https://www.youtube.com/watch?v=s4WaVPofMJw) tutorial from Photoshop training channel ( ⚠ link to download no longer works, not much useful)
 - [Speedlines brushes](https://psfiles.com/manga-speedlines-brushes/) by Shadowmist ([alternative download link](https://myphotoshopbrushes.com/brushes/id/3816/))
 
 ### ⚡⚡
+
 Still on lookout for speedline resources
 
 ## 📂 Folder Structure
+
 Each folder contains:
+
 - `before.png` — Original image
 - `after.png` — Final result
 - `README.md` — Side-by-side comparison and context
@@ -38,32 +41,32 @@ Each folder contains:
 
 ---
 
-Thanks for checking out my work! 
+Thanks for checking out my work!
 
 If you'd like to collaborate or have feedback, feel free to [contact me](https://x.com/_JoydeepMallick).
 
 ...
 
 ## 📂 Folder Structure
+
 Each folder contains:
+
 - `before.png` — Original image
 - `after.png` — Final result
 - `README.md` — Side-by-side comparison and context
 
 ---
 
-
 ### ⚠️ Disclaimer
 
-> **All the `before` images used in this repository are the property of their respective publishers, authors, and copyright holders.**  
->  
-> This work is purely **non-commercial** and intended **only as a portfolio to demonstrate image editing skills** (such as cleaning, redrawing, and retouching) using tools like Adobe Photoshop.  
->  
+> **All the `before` images used in this repository are the property of their respective publishers, authors, and copyright holders.**
+>
+> This work is purely **non-commercial** and intended **only as a portfolio to demonstrate image editing skills** (such as cleaning, redrawing, and retouching) using tools like Adobe Photoshop.
+>
 > No infringement is intended. If you are a copyright holder and would like any content removed, please [contact me](https://x.com/_JoydeepMallick), and I will take immediate action.
 
 ---
 
-Thanks for checking out my work! 
+Thanks for checking out my work!
 
 If you'd like to collaborate or have feedback, feel free to [contact me](https://x.com/_JoydeepMallick).
-
