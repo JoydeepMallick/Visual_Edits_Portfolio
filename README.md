@@ -25,31 +25,17 @@ Each folder contains a specific project with **before-and-after images**, so you
 - [Astranim's video](https://www.youtube.com/watch?v=x0J2ZltOE38&t=17s) on coloring.
 - ⚠ [Speedlines OLD ](https://www.youtube.com/watch?v=s4WaVPofMJw) tutorial from Photoshop training channel ( ⚠ link to download no longer works, not much useful)
 - [Speedlines brushes](https://psfiles.com/manga-speedlines-brushes/) by Shadowmist ([alternative download link](https://myphotoshopbrushes.com/brushes/id/3816/))
+- I also have collected few personal resources on [Photoshop tutorials](./Photoshop%20tutorials/)
+
 
 ### ⚡⚡
 
 Still on lookout for speedline resources
 
-## 📂 Folder Structure
-
-Each folder contains:
-
-- `before.png` — Original image
-- `after.png` — Final result
-- `README.md` — Side-by-side comparison and context
-- the photoshop file used in `psd` format
-
----
-
-Thanks for checking out my work!
-
-If you'd like to collaborate or have feedback, feel free to [contact me](https://x.com/_JoydeepMallick).
-
-...
 
 ## 📂 Folder Structure
 
-Each folder contains:
+Each numbered folder contains:
 
 - `before.png` — Original image
 - `after.png` — Final result
