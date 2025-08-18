@@ -1,0 +1,1 @@
+Select all rar files and then extract together.
