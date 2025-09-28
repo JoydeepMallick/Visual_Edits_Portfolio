@@ -10,7 +10,9 @@ Each folder contains a specific project with **before-and-after images**, so you
 
 - Clip Studio Paint 3.0.0 ([Download Here](https://drive.google.com/drive/folders/1_HbsAYQNwWICdPN7ksORUD_sYU9vzmaE) and [Get More Brushes](https://drive.google.com/drive/u/0/folders/1y2YTBmYfEOYV2CTgBjpNizrIlMzi6H2W)) , Speedlines[1](https://assets.clip-studio.com/en-us/detail?id=1739738), [2](https://assets.clip-studio.com/en-us/detail?id=1496777), [3](https://assets.clip-studio.com/ja-jp/detail?id=1721568), [4](https://assets.clip-studio.com/ja-jp/detail?id=2005591)
 
-- (Planned for unforseen future) GIMP
+- (Planned for unforseen future) GIMP, Medibang, Procreate, Krita
+
+- To clean physical scanned images of artifacts, I recommend [waifu2x](https://www.waifu2x.net/)
 
 - Screentones for reference ([Download Here](https://drive.google.com/drive/folders/1xDul1jBRfaNW3jjgKsm3JW3-2-9s1QDu) or [from here](https://mangadex.org/title/ba2c3f7e-dc0b-4c8c-b251-9a207364ea11/screentone-collection))
 
