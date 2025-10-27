@@ -26,6 +26,7 @@ Each folder contains a specific project with **before-and-after images**, so you
 - [This Guy Does Photoshop](https://www.youtube.com/@thisguydoesphotoshop) tutorials
 - [TutVid](https://www.youtube.com/@tutvid) tutorials
 - [MikiiChi's Guide](https://drive.google.com/drive/folders/1a04Za8iIBb9sBj2M1-msj7VVSBdAtzsO?usp=drive_link) (The google slides are really good and give a starting direction and some rules to keep in mind) and her [YouTube tutorials on cleaning](https://www.youtube.com/watch?v=fkFx5yt482Q)
+- [Red Hawk's](https://docs.google.com/document/d/1YAPKZid4UMwa2IW_fYj_4fP3RLp8LzB5btIYZhWiIAc/edit?tab=t.0#heading=h.9bhuaekat8pm) Very good advise on typesetting and manipulating text
 - [FatManTube](https://www.youtube.com/@FatManTube) tutorials dedicated to cleaning and redrawing.
 - [GiSama](https://www.youtube.com/@gisama315) specially for manga redrawing
 - [Astranim's video](https://www.youtube.com/watch?v=x0J2ZltOE38&t=17s) on coloring.
