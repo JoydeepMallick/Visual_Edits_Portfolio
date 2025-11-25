@@ -25,4 +25,4 @@ Tools used: **Adobe Photoshop** (Pen Tool, Clone Stamp, Healing Brush, Content A
 
 > *Feel free to zoom in for better details.*
 
-> Photoshop file also attached in this repo 
+> This was part of a larger section, PS files being too big, did not upload.
